@@ -1,0 +1,2 @@
+# cdc
+postgres + debezium + kafka
